@@ -33,4 +33,4 @@ python3 tools/mofballs.py --filter process_commandline_contains --match "-enc " 
 
 **Optional:** `--poll-within 2` (event polling interval), `-o file.mof`, `--json-meta` (metadata line on stderr).
 
-.
+
